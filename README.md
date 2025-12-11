@@ -134,8 +134,7 @@ Decryption simply reverses the encryption:
   Original Image
  <img width="225" height="225" alt="Original" src="https://github.com/user-attachments/assets/965e0baf-37d6-4c9f-9420-41ff7c85b864" />
  
-  Encrypted Image
+ Encrypted Image
  <img width="225" height="225" alt="encrypted" src="https://github.com/user-attachments/assets/6aab7be0-f3ba-4d67-bc60-617d97c8a9b5" />
- 
-  Decrypted Image
+ Decrypted Image
  <img width="225" height="225" alt="decrypted" src="https://github.com/user-attachments/assets/bf799246-9f3f-470f-979d-a595dc92e3dc" />
